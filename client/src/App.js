@@ -12,7 +12,7 @@ function App() {
         <Routes>
 
             <Route
-            path="/ecco-designs"
+            path="/eco-designs"
             element={<Home />}
             />
 
