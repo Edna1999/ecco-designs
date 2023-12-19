@@ -1,8 +1,8 @@
 {
-    "name": "eco-designs",
+    "name": "ecco-designs",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Edna1999.github.io/eco-designs",
+    "homepage": "https://Edna1999.github.io/ecco-designs",
     "proxy": "http://localhost:3001",
     "dependencies": {
       "@testing-library/jest-dom": "^5.16.5",
